@@ -18,7 +18,7 @@ $ pod install
 $ yarn ios
 ```
 
-### Run IOS
+### Run Android
 
 ```sh
 $ yarn android
